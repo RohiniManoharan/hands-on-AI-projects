@@ -1,0 +1,1 @@
+This project demonstrates a multi-provider LLM fallback system using OpenAI, Gemini, and Groq, with Pydantic used to define and validate structured model outputs. It shows how to route requests across providers for reliability while keeping responses consistent and schema-based.
